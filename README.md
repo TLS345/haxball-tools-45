@@ -7,7 +7,7 @@ For testing on sites you own — **do not abuse**.
 
 ## 📦 Overview
 
-This script (`tokens.js`) opens a Chromium browser to `https://www.haxball.com/headlesstoken`, detects and extracts valid tokens, and delivers them to consumers through Discord, local storage, or an HTTP status endpoint.  
+This script (`bot.js`) opens a Chromium browser to `https://www.haxball.com/headlesstoken`, detects and extracts valid tokens, and delivers them to consumers through Discord, local storage, or an HTTP status endpoint.  
 It maintains a configurable token stock and supports on-demand generation when tokens are requested.
 
 ---
