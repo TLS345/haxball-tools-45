@@ -33,14 +33,14 @@ It maintains a configurable token stock and supports on-demand generation when t
   npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth discord.js@14 express
  ````
 
-* Folder with unpacked Chrome extension (`mi-extension-descomprimida`) containing `manifest.json`
+* Folder with unpacked Chrome extension (`extension`) containing `manifest.json`
 
 ---
 
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/yourname/recaptcha-harvester.git
+git clone https://github.com/TLS345/haxball-tools-45
 cd recaptcha-harvester
 npm install
 set "DISCORD_TOKEN=YOUR_DISCORD_TOKEN"
