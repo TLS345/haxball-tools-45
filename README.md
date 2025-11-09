@@ -121,7 +121,7 @@ pause
 
 ## 🛠 Troubleshooting
 
-* **No tokens captured:** Run in visible mode; check `mi-extension-descomprimida/manifest.json` exists.
+* **No tokens captured:** Run in visible mode; check `extension/manifest.json` exists.
 * **Discord bot not responding:** Verify `DISCORD_TOKEN` and `Message Content` intent in Discord Developer Portal.
 * **High RAM usage:** Lower `MAX_GENERATORS` and `MIN_TOKENS`.
 * **Headless fails:** Many captchas require rendering — run visible.
